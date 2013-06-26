@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:	web2py template
-" Maintainer:	Lukasz Panek <pancurster@gmail.com> based on django syntax by Dave Hodder <dmh@dmh.org.uk>
-" Last Change:	2011 05 15
+" Maintainer:	Charles Levesque <dreamtooloverture@gmail.com>
+" Last Change:	2013 06 26
 
 " For version 5.x: Clear all syntax items
 " For version 6.x: Quit when a syntax file was already loaded
